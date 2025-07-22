@@ -9,7 +9,7 @@ Table of Contents
     Overview
 
     Features
-
+ 
     Project Structure
 
     How It Works
